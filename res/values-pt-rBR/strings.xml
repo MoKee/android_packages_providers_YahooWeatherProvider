@@ -16,5 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="prefscreen_category_about_title">Sobre</string>
   <!-- Copyright and disclaimers -->
+  <string name="prefscreen_copyright_title">Aviso legal</string>
+  <string name="prefscreen_copyright_summary">As informações fornecidas por este aplicativo são fornecidas apenas para fins informativos gerais e não tem a pretensão de ser ou constituir conselhos profissionais legais ou outros e não devem ser confiadas %1$s, nem o provedor desta aplicação como tal.</string>
 </resources>

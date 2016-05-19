@@ -19,4 +19,5 @@
   <string name="prefscreen_category_about_title">À Propos</string>
   <!-- Copyright and disclaimers -->
   <string name="prefscreen_copyright_title">Avertissement</string>
+  <string name="prefscreen_copyright_summary">Les informations fournies par cette application sont fournies uniquement à des fins d’informations générales et ne prétendent pas être ou constituer des conseils de professionnels juridiques ou autres et ne doivent pas être invoquées %1$s ni le fournisseur de cette demande en tant que telle.</string>
 </resources>
